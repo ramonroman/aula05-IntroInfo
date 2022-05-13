@@ -1,10 +1,7 @@
 Prática aula 05
 Novo envio
-<<<<<<< HEAD
 Flavimar: 
-=======
 
 Adicionado por Ramon
->>>>>>> f1ee222fbfef36a57453a000be94f4595579c628
 
 ---
